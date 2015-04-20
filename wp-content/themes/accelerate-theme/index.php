@@ -15,6 +15,8 @@
  */
 
 get_header(); ?>
+
+
 	<!-- BLOG PAGE -->
 	<section class="blog-page">
 		<div class="site-content">
@@ -55,4 +57,4 @@ get_header(); ?>
 
 	</section>
 	<!-- END blog page -->
-<?php get_footer();
+<?php get_footer();/
